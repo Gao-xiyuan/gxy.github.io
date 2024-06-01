@@ -4,17 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a D.Eng. student in Vision Group, Lab of Machine Learning and Data Mining, Tianjin University, advised by Prof. Pengfei Zhu.  Prior to attending TJU, I obtained my B.Sc. degree from Hangzhou Dianzi University, advised by Prof, Jun Yu in June 2020.
+I am currently pursuing a D.Eng. degree in Vision Group, Lab of Machine Learning and Data Mining, Tianjin University, supervised by Prof. Pengfei Zhu and Assoc. Prof. Bing Cao. Prior to attending TJU, I obtained my B.E. degree and M.S. degree from Chongqing University of Posts and Telecommunications, supervised by Prof. Xinbo Gao, in 2020 and 2024, respectively.
 
 ## Research Interests
 
-- **Image Fusion:** RGB-Infrared, Medical Image(CT-MRI, PET-MRI) image fusion
-- **Image-to-Image Translation:** Sketch-Photo transfer
-- **Medical Image Processing:** Disease diagnosis, OAR prediction, Oragns segmentation.
-  
-## News
+- **Computer Vision:** multimodal image fusion, semantic segmentation
+- **Machine Learning:** collaborative learning, weakly supervised learning
 
-- **[Feb. 2024]** Coming later
 
 
 {% include_relative _includes/publications.md %}
