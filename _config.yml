@@ -20,7 +20,7 @@ canonical:
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/GaoXiyuan.jpg
+avatar: ./assets/img/GaoXiyuan.png
 favicon: ./assets/img/VISDRONE-LOGO.png
 favicon_dark: ./assets/img/VISDRONE-LOGO.png
 
