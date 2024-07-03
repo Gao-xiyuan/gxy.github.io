@@ -21,11 +21,27 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
   
-    # - title: "A multicenter clinical AI system study for detection and diagnosis of focal liver lesions"
-    #   # authors: <strong>Xingxin Xu</strong>, Caobing, ect.
-    #   conference_short: NCOMMS
-    #   conference: Nature Communications
-    #   pdf: https://www.nature.com/articles/s41467-024-45325-9
-    #   # code: https://github.com/jehovahxu/ca-gan
-    #   image: ./assets/img/LIAIDS.png
+    - title: "Contextual Learning in Fourier Complex Field for VHR Remote Sensing lmages"
+      authors: Yan Zhang, <strong>Xiyuan Gao</strong>, Qingyan Duan, Jiaxu Leng, Xiao Pu, and Xinbo Gao*
+      conference_short: TNNLS
+      conference: IEEE Transactions on Neural Networks and Learning Systems, 2023
+      # pdf: https://ieeexplore.ieee.org/abstract/document/10271341
+      # code: https://github.com/jehovahxu/chan
+      image: ./assets/img/FCT_architecture.png
+
+    - title: "DecomFormer: Decompose Self-Attention via Fourier Transform for VHR Aerial Image Scene Classification"
+      authors: Yan Zhang, <strong>Xiyuan Gao</strong>, Xiao Pu, Tao Wang, and Xinbo Gao*
+      conference_short: ICASSP
+      conference: ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing
+      # pdf: https://ieeexplore.ieee.org/abstract/document/10096132
+      # code: https://github.com/jehovahxu/chan
+      image: ./assets/img/DecomFormer_architecture.png
+
+    - title: "DHT: Deformable Hybrid Transformer for Aerial Image Segmentation"
+      authors: Yan Zhang, <strong>Xiyuan Gao</strong>, Qingyan Duan, Lin Yuan, and Xinbo Gao*
+      conference_short: GRSL
+      conference: IEEE Geoscience and Remote Sensing Letters, 2022
+      # pdf: https://ieeexplore.ieee.org/abstract/document/9962798
+      # code: https://github.com/jehovahxu/chan
+      image: ./assets/img/DHT_architecture.png
 
