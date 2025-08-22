@@ -20,7 +20,14 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
-  
+    - title: "Asymmetric Reinforcing Against Multi-Modal Representation Bias"
+      authors: <strong>Xiyuan Gao</strong>, Bing Cao, Pengfei Zhu*, Nannan Wang and Qinghua Hu
+      conference_short: AAAI
+      conference: The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)
+      pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33841
+      # code: https://github.com/jehovahxu/chan
+      image: ./assets/img/Method1.png
+      
     - title: "Contextual Learning in Fourier Complex Field for VHR Remote Sensing lmages"
       authors: Yan Zhang, <strong>Xiyuan Gao</strong>, Qingyan Duan, Jiaxu Leng, Xiao Pu, and Xinbo Gao*
       conference_short: TNNLS
