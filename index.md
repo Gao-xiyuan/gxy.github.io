@@ -8,7 +8,7 @@ I am currently pursuing a D.Eng. degree in Vision Group, Lab of Machine Learning
 
 ## Research Interests
 
-- **Computer Vision:** multimodal image fusion, semantic segmentation
+- **Computer Vision:** multimodal learning, aerial image processing
 - **Machine Learning:** collaborative learning, weakly supervised learning
 
 
