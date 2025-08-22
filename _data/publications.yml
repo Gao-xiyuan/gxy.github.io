@@ -24,7 +24,7 @@ main:
       authors: <strong>Xiyuan Gao</strong>, Bing Cao, Pengfei Zhu*, Nannan Wang and Qinghua Hu
       conference_short: AAAI
       conference: The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-2025)
-      pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33841
+      # pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33841
       # code: https://github.com/jehovahxu/chan
       image: ./assets/img/Method1.png
       
